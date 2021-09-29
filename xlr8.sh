@@ -277,13 +277,13 @@ sleep 1
 echo ""
 echo ""
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m It will automatically stop after 5 min\e[93m"
+echo -e "   \e[92m[\e[91m~\e[92m]\e[93m It will automatically stop after 100 min\e[93m"
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m After sending 300 msgs and 60 calls !!\e[93m"
+echo -e "   \e[92m[\e[91m~\e[92m]\e[93m After sending 3000000 msgs and 6000 calls !!\e[93m"
 echo ""
 echo ""
 find . -type f -exec sh -c "eval $bombb" \;
-printf "          \e[0m\e[41m♡ 300 msgs and 60 calls Bombed Successfully ♡\e[0m\n"
+printf "          \e[0m\e[41m♡ 3000000 msgs and 600 calls Bombed Successfully ♡\e[0m\n"
 echo ""
 exit
 else
