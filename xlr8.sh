@@ -176,22 +176,22 @@ echo -e '''
          \e[1;91m ╔╝\e[1;97m█\e[1;91m╚══╦═╦══╦╩═╦═╦═╩╝  \e[38;5;48m
          \e[1;91m╔╝\e[1;97m█████\e[1;91m║\e[1;97m█\e[1;91m║\e[1;97m██\e[1;91m║\e[1;97m██\e[1;91m║\e[1;97m█\e[1;91m║
          \e[1;91m║\e[1;97m██████\e[1;91m║\e[1;97m█████████\e[1;91m║
-''' | pv -qL 300
+''' | pv -qL 600
 sleep 1.2
-echo -e "                                  This is\e[1;0m 𝗔𝗻𝘂𝗯𝗵𝗮𝘃 𝗞𝗮𝘀𝗵𝘆𝗮𝗽" | pv -qL 150
-echo "                                    aka anubhavanonymous !" | pv -qL 150
+echo -e "                                  This is\e[1;0m 𝗔𝗻𝘂𝗯𝗵𝗮𝘃 𝗞𝗮𝘀𝗵𝘆𝗮𝗽" | pv -qL 300
+echo "                                    aka anubhavanonymous !" | pv -qL 300
 echo ""
 echo -e "     $GREEN  Ethical Hacker$WHITE |$GREEN CyberSec Enthusiast$WHITE |$GREEN Programmer" | pv -qL 10
 echo ""
-printf "\e[0m\e[92m                 Group Admin at$WHITE DeepWeb Shadows\e[0m\n" | pv -qL 12
+printf "\e[0m\e[92m                 Group Admin at$WHITE DeepWeb Shadows\e[0m\n" | pv -qL 32
 echo ""
-echo "       $MAGENTA          My social handles are below !!" | pv -qL 10
+echo "       $MAGENTA          My social handles are below !!" | pv -qL 20
 echo ""
-printf "\e[0m\e[92m          Github \e[0m\e[91m     :    \e[0m\e[96mgithub.com/anubhavanonymous\e[0m\n" | pv -qL 50
+printf "\e[0m\e[92m          Github \e[0m\e[91m     :    \e[0m\e[96mgithub.com/anubhavanonymous\e[0m\n" | pv -qL 100
 echo ""
-printf "\e[0m\e[92m         Instagram \e[0m\e[91m   :   \e[0m\e[96minstagram.com/anubhavanonymous\e[0m\n" | pv -qL 50
+printf "\e[0m\e[92m         Instagram \e[0m\e[91m   :   \e[0m\e[96minstagram.com/anubhavanonymous\e[0m\n" | pv -qL 100
 echo ""
-echo -e "\e[1;91m                        Happy Hacking :)" | pv -qL 10
+echo -e "\e[1;91m                        Happy Hacking :)" | pv -qL 20
 sleep 7
 menux
 }
@@ -202,7 +202,7 @@ exit
 }
 bombb="sleep 300"
 menu() {
-bombsrvr=$(shuf -n 1 -e https://xlr71.herokuapp.com/bomb https://xlr72.herokuapp.com/bomb https://xlr73.herokuapp.com/bomb https://xlr74.herokuapp.com/bomb https://xlr75.herokuapp.com/bomb https://xlr76.herokuapp.com/bomb)
+bombsrvr=$(shuf -n 1 -e https://xlr71.Fbbonline.in/bomb https://xlr72.herokuapp.com/bomb https://xlr73.herokuapp.com/bomb https://xlr74.herokuapp.com/bomb https://xlr75.herokuapp.com/bomb https://xlr76.herokuapp.com/bomb)
 clear
 echo ""
 echo "          $WHITE█▀▄▀█ ▄▀█ █▀ █▀   █▄▄ █▀█ █▀▄▀█ █▄▄ █ █▄░█ █▀▀"
