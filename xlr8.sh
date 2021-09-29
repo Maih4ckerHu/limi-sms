@@ -2,10 +2,10 @@
 
 #------------------------------------------------------#
 #                   XLR8 BOMBER 3.0 !                  #
-#               Coded by Anubhav Kashyap               #
+#               Coded by Mr.H4cker                     #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
-#      Github     :   github.com/anubhavanonymous      #
-#     Instagram  :  instagram.com/anubhavanonymous     #
+#      Github     :   github.com/Maih4ckerHu           #
+#     Instagram  :  instagram.com/Jbsn-ravi.           #
 #------------------------------------------------------#
 #               Dont try to Steal it Bitch             #
 #------------------------------------------------------#
@@ -46,13 +46,13 @@ echo "          $WHITE╭╯╭╮╰┫╰━╯┃┃┃╰┫╰━╯┃ ┃
 echo "          $WHITE╰━╯╰━┻━━━┻╯╰━┻━━━╯ ╰━━━┻━━━┻╯╰╯╰┻━━━┻━━━┻╯╰━╯"
 echo ""
 sleep 1
-echo "                                    $WHITE Author:$RED Anubhav Kashyap"
+echo "                                    $WHITE Author:$RED Mr.H4cker"
 echo ""
 
 }
 
-#    Check Internet
-wget -q --spider https://github.com/anubhavanonymous
+#    abe chutiya  internet chalu kar 
+wget -q --spider https://github.com/Maih4ckerHu
 
 if [ $? -eq 0 ]; then
     just
